@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    background-color: rgb(146, 127, 255);
+    font-family: "Audiowide", sans-serif;
+
+}
+li a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px;
+    border-bottom: 2px solid white;
+}
+li a:hover {
+    color: black;
+    border-bottom: 2px solid black;
+}
+li {
+    display: inline;
+}
+ul {
+    margin-top: 20px;
+    text-align: center;
+}
+span {
+    color: white;
+}
+h2 {
+    margin: 0;
+}
+h3 {
+    margin: 0 ;
+}
+
+.profile-picture {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.profile-picture img {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+.text {
+    margin-bottom: 50px;
+    text-align: center;
+}
+.resume {
+    background-color: black;
+    padding: 15px 35px;
+    border-radius: 40px;
+    margin-top: 10px;
+    display: inline-block;
+}
+.resume a {
+    color: white;
+    text-decoration: none;
+}
+.resume:hover {
+    background-color: grey;
+}
+.skill {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+.circle {
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    border: 3px solid black;
+    margin: 0 10px 10px 10px;
+}
+.circle img {
+    margin-top: 25%;
+    height: 60px;
+}
+.side-project {
+    margin-top: 50px;
+    text-align: center;
+}
+.side-project h3 {
+    color: white;
+    padding: 10px;
+}
+.content {
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.footer {
+    background-color: grey;
+    padding: 15px;
+    width: 100%;
+    bottom: 0;
+}
+.copyright {
+    text-align: center;
+}
+.logo {
+    text-align: center;
+}
+.logo a {
+    text-decoration: none;
+}
+img {
+    height: 40px;
+}
+

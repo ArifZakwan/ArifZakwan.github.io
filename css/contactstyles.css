@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    background-color: rgb(146, 127, 255);
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+}
+li a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px;
+    border-bottom: 2px solid white;
+}
+li a:hover {
+    color: black;
+    border-bottom: 2px solid black;
+}
+li {
+    display: inline;
+}
+ul {
+    margin-top: 20px;
+}
+.box {
+    margin-top: 50px;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.5);
+}
+h1 {
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 0;
+}
+.contact-me {
+    margin-top: 25px;
+}
+.contact-me a {
+    text-decoration: none;
+}
+.check {
+    width: 400px;
+    height: 25px;
+    border-radius: 12px;
+    margin-top: 10px;
+}
+.sub {
+    width: 100px;
+}
+textarea {
+    width: 400px;
+    height: 100px;
+    border-radius: 12px;
+    margin-top: 10px;
+}
+.minibox {
+    margin-top: 10px;
+}
+.footer {
+    background-color: grey;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.copyright {
+    text-align: center;
+}
+.logo {
+    text-align: center;
+}
+.logo a {
+    text-decoration: none;
+}
+img {
+    height: 40px;
+}
